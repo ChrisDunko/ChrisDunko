@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm a full-stack developer mainly working with PHP, Laravel, JavaScript, TypeScript, Vue and FileMaker.
 
+Mastodon: https://phpc.social/@dunkake
+Blog: https://dragoneyes.software/#articles
+
 <!--
 **ChrisDunko/ChrisDunko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
